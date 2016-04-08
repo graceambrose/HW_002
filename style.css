@@ -101,14 +101,10 @@ ul {
   line-height:1.4;
 }
 
-.role {
+.dates {
     font-size: 12px;
     font-weight: normal;
     color: #ABADAA;
-}
-
-.li-role{
-    font-size: 14px;
 }
 
 p {
